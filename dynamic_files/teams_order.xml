@@ -1,0 +1,27 @@
+<xmlfile>
+	<sections>
+		<section name="Adult">
+			<team team_id="30" active="yes" teamname="Junior A Football"/>
+			<team team_id="51" active="yes" teamname="Intermediate Hurling"/>
+			<team team_id="32" active="yes" teamname="U21 Hurling"/>
+			<team team_id="28" active="yes" teamname="Junior A Hurling (2005-2014)"/>
+			<team team_id="27" active="no" teamname="Senior Hurling"/>
+			<team team_id="31" active="no" teamname="Junior B Football"/>
+			<team team_id="29" active="yes" teamname="Junior C Hurling"/>
+			<team team_id="45" active="no" teamname="U15 Football"/>
+			<team team_id="33" active="yes" teamname="U21 Football"/>
+			<team team_id="34" active="no" teamname="Minor Hurling"/>
+			<team team_id="35" active="no" teamname="Minor Football"/>
+		</section>
+		<section name="Juvenile">
+			<team team_id="37" active="no" teamname="U16 Football"/>
+			<team team_id="36" active="no" teamname="U16 Hurling"/>
+			<team team_id="44" active="no" teamname="U15 Hurling"/><team team_id="46" active="no" teamname="U15 Football"/><team team_id="39" active="no" teamname="U14 Football"/>
+			<team team_id="38" active="no" teamname="U14 Hurling"/>
+			<team team_id="49" active="no" teamname="U13 Hurling"/><team team_id="50" active="no" teamname="U13 Football"/><team team_id="40" active="no" teamname="U12 Hurling"/>
+			<team team_id="42" active="no" teamname="U10 Hurling"/>
+			<team team_id="41" active="no" teamname="U12 Football"/>
+			<team team_id="43" active="no" teamname="U10 Football"/>
+			<team team_id="48" active="no" teamname="U11 Football"/><team team_id="47" active="no" teamname="U11 Hurling"/></section>
+	</sections>
+</xmlfile>

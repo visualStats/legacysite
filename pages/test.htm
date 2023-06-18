@@ -1,0 +1,51 @@
+<html>
+<head>
+
+</head>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+/*
+Script by FPMC at http://jsarchive.8m.com
+Submitted to JavaScript Kit (http://javascriptkit.com)
+For this and 400+ free scripts, visit http://javascriptkit.com
+*/
+
+//set image paths
+src = ["../images/homepage1.JPG", "../images/homepage2.JPG", "../images/homepage3.JPG", "../images/homepage4.JPG"]
+
+
+//set corresponding urls
+url = ["http://freewarejava.com", "http://javascriptkit.com", "http://dynamicdrive.com", "http://www.geocities.com"]
+
+//set duration for each image
+duration = 4;
+
+//Please do not edit below
+ads=[]; ct=0;
+function switchAd() {
+var n=(ct+1)%src.length;
+if (ads[n] && (ads[n].complete || ads[n].complete==null)) {
+document["Ad_Image"].src = ads[ct=n].src;
+}
+ads[n=(ct+1)%src.length] = new Image;
+ads[n].src = src[n];
+setTimeout("switchAd()",duration*1000);
+}
+function doLink(){
+location.href = url[ct];
+} onload = function(){
+if (document.images)
+switchAd();
+}
+//-->
+</SCRIPT>
+
+<A HREF="javascript:doLink();" onMouseOver="status=url[ct];return true;" 
+onMouseOut="status=''"></A>
+<IMG NAME="Ad_Image" SRC="../images/homepage1.JPG" BORDER=0 style="width:560px; filter:progid:DXImageTransform.Microsoft.Fade(duration=1.0,overlap=1.0)>
+
+</div>
+
+</body>
+</html>

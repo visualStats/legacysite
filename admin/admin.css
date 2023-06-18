@@ -1,0 +1,20 @@
+.maintext {FONT-FAMILY: Verdana, Helvetica, sans-serif; COLOR:#dd0000; FONT-SIZE: 11px; FONT-WEIGHT: normal;}
+
+.priority1 {FONT-FAMILY: Verdana, Helvetica, sans-serif; COLOR:#dd0000; FONT-SIZE: 11px; FONT-WEIGHT: bold;}
+.priority2 {FONT-FAMILY: Verdana, Helvetica, sans-serif; COLOR:#dd0000; FONT-SIZE: 11px; FONT-WEIGHT: normal;}
+.priority3 {FONT-FAMILY: Verdana, Helvetica, sans-serif; COLOR:#ADADAD; FONT-SIZE: 11px; FONT-WEIGHT: normal;}
+
+
+
+.mainlink {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+A.mainlink:VISITED {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+A.mainlink:HOVER {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+A.mainlink {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+.mainlinkselected {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+
+
+.adminhyper {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+A.adminhyper:VISITED {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+A.adminhyper:HOVER {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+A.adminhyper {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
+.adminhyperselected {FONT-FAMILY: Verdana, Helvetica, sans-serif; color:#dd0000;text-decoration:underline; FONT-SIZE: 11px; FONT-WEIGHT: bold; }
